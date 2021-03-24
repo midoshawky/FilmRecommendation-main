@@ -13,5 +13,5 @@ Our resources helped to finish this app
 
 - [Machine learning files python modules,movies datasets,Server Side files](https://drive.google.com/drive/folders/19VzJbj_wUSVyoe1ATY8YMSlALuF3Y3ue?usp=sharing)
 - [Figma Design and Prototype](https://www.figma.com/file/pliJcA6zPESbDGgXydjspn/Movie-recommender?node-id=103%3A411)
-
-
+- [Our Movie Recommend API : https://movie-recommendersys.herokuapp.com/movie?title={Movie Name}](https://movie-recommendersys.herokuapp.com/movie?title=Iron%20Man)
+- [Raped API for providing powerfull Apis for movies details](https://rapidapi.com/hmerritt/api/imdb-internet-movie-database-unofficial)

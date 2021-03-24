@@ -1,16 +1,17 @@
-# movie_app_recommendation
+# Movie App Recommendation
 
-A new Flutter application.
+Using flutter we created mobile application depends on Machine Learning API 
+used for recommend a movie for the user .
 
-## Getting Started
+## OverView
 
-This project is a starting point for a Flutter application.
+This project is only for studing purpose and it intended to be developed more and more its just a prototype.
+#####
+Using Machine Learning KNN Model for classification we managed to helping users to be recommended by our app for a movie depends on some inputs 
 
-A few resources to get you started if this is your first Flutter project:
+Our resources helped to finish this app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Machine learning files python modules,movies datasets,Server Side files](https://drive.google.com/drive/folders/19VzJbj_wUSVyoe1ATY8YMSlALuF3Y3ue?usp=sharing)
+- [Figma Design and Prototype](https://www.figma.com/file/pliJcA6zPESbDGgXydjspn/Movie-recommender?node-id=103%3A411)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+

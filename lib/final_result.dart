@@ -32,7 +32,7 @@ class FinalResult extends StatelessWidget {
                         children: [
                           Positioned(
                             child: Container(
-                              child: FadeInImage.assetNetwork(placeholder: "assets/images/filmplace.png", image:movieImgUrl,fit: BoxFit.cover),
+                              child: FadeInImage.assetNetwork(placeholder: "assets/images/filmplace.png", image:movieImgUrl,fit: BoxFit.contain),
                             ),
                           ),
 

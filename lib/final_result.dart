@@ -13,7 +13,7 @@ class FinalResult extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.white,
       body: FutureBuilder<Response>(
-        future: _data.getData("up"),
+        future: _data.getData("Iron Man"),
         builder: (context,snapshot){
           if(snapshot.hasData)
             {
